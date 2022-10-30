@@ -1,4 +1,4 @@
-# Recipe Cooking Project
+# Mini Social Project
 
 Made from React TypeScript, React Hook Form, Firebase, Tailwind CSS, Daisy Ui and The API From Public
 
